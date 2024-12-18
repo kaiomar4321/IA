@@ -1,0 +1,21 @@
+¿Qué es la inteligencia artificial?
+La inteligencia artificial (IA) es un campo de estudio que se enfoca en construir entidades inteligentes que puedan realizar tareas que, si fueran hechas por humanos, requerirían de inteligencia. Hay varias definiciones, pero en términos generales, la IA se puede entender desde dos enfoques: los sistemas que actúan o piensan como humanos y los sistemas que actúan o piensan racionalmente. Por ejemplo, un sistema que actúa como un humano podría estar diseñado para realizar tareas que comúnmente asocian con el comportamiento humano, como la toma de decisiones o la resolución de problemas​(inteligencia-artificial…)​(inteligencia-artificial…).
+
+Enfoques de la inteligencia artificial:
+
+Sistemas que piensan como humanos: Estos enfoques buscan automatizar procesos de pensamiento humano. Un ejemplo es la toma de decisiones o la resolución de problemas​(inteligencia-artificial…).
+Sistemas que piensan racionalmente: Aquí se estudian los cálculos que permiten razonar y actuar. Ejemplos incluyen modelos computacionales que imitan las facultades mentales​(inteligencia-artificial…).
+Sistemas que actúan como humanos: Se trata de desarrollar máquinas que puedan realizar funciones que requieren inteligencia humana, como el reconocimiento de voz o el procesamiento de lenguaje natural​(inteligencia-artificial…).
+Sistemas que actúan racionalmente: Este enfoque se centra en construir sistemas que realicen acciones de manera óptima, basándose en la información disponible. Un ejemplo es un agente racional que decide la mejor acción para maximizar su beneficio en un entorno dado​(inteligencia-artificial…).
+¿Qué es un problema NP?
+
+Los problemas NP (nondeterministic polynomial time) son aquellos para los cuales existe un algoritmo que puede verificar una solución propuesta en tiempo polinomial, pero no necesariamente encontrar dicha solución rápidamente. Si se pudiera resolver un problema NP en tiempo polinomial, entonces pertenecería a la clase P, que incluye problemas "fáciles" o solucionables en tiempo polinomial. Un famoso ejemplo de un problema NP es el de la satisfacibilidad, que busca determinar si una fórmula lógica puede ser verdadera bajo ciertas asignaciones​(inteligencia-artificial…)​(inteligencia-artificial…).
+
+Tipos de espacio de estado que siempre conducen a árboles de búsqueda finita:
+Un espacio de estado conduce a un árbol de búsqueda finita cuando el número de estados alcanzables es limitado. Esto ocurre cuando se define un espacio de estados bien delimitado, donde el número de estados es finito y las acciones disponibles no generan ciclos infinitos. Un ejemplo sería un juego como el ajedrez, donde el espacio de estados (posiciones de las piezas) es finito y las reglas del juego garantizan que no se repita una misma secuencia de movimientos indefinidamente​(inteligencia-artificial…).
+
+¿A qué se refiere la búsqueda del estado requerido en el conjunto de los estados producidos por las acciones posibles?
+Este concepto se refiere al proceso de búsqueda en el espacio de estados, donde un agente explora todos los estados posibles generados por las acciones que puede realizar, hasta encontrar un estado objetivo. En términos formales, la función sucesor genera pares de acciones y estados sucesores, y el agente navega por este grafo de estados hasta alcanzar un estado que satisfaga el criterio objetivo​(inteligencia-artificial…).
+
+Reglas formales para obtener conclusiones válidas:
+Las reglas de inferencia lógica, como el Modus Ponens, son fundamentales para obtener conclusiones válidas a partir de premisas. Estas reglas permiten derivar conclusiones de forma lógica y coherente, garantizando que si las premisas son verdaderas, la conclusión también lo será. La inferencia se realiza utilizando equivalencias lógicas, validez y satisfacibilidad de las sentencias​(inteligencia-artificial…)​(inteligencia-artificial…).
